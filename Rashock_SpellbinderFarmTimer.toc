@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: |cffffcc00Rashock|cffffffff - Spellbinder Farm Timer 
+## Notes: Timer & Killzähler für Scarlet Spellbinder Farm in WPL (WoW 1.12.1).
+## Author: Rashock
+## Version: 1.0.0
+## SavedVariables: Rashock_SpellbinderFarmTimerDB
+## LoadOnDemand: 0
+
+
+Rashock_SpellbinderFarmTimer.lua
