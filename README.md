@@ -33,7 +33,7 @@ It tracks respawn timers and counts your personal kills.
 
 ## Deutsch 🇩🇪
 
-Ein leichtgewichtiges **World of Warcraft 1.12.1 (Vanilla)** Addon zur Unterstützung beim Farmen von **Scharlachroten Zauberbindern** in den Westlichen Pestländern.  
+Ein kleines **World of Warcraft 1.12.1 (Vanilla)** Addon zur Unterstützung beim Farmen von **Scharlachroten Zauberbindern** in den Westlichen Pestländern.  
 Es überwacht Respawn-Timer und zählt deine persönlichen Kills.
 
 ### ✨ Funktionen
