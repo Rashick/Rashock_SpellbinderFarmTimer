@@ -1,7 +1,5 @@
 # Rashock_SpellbinderFarmTimer
 
-# Rashock - Spellbinder Farm Timer
-
 ## English 🇬🇧
 
 A lightweight **World of Warcraft 1.12.1 (Vanilla)** addon that helps with farming **Scarlet Spellbinders** in Western Plaguelands.  
